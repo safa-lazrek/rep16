@@ -1,0 +1,59 @@
+*{
+    margin : 0;
+ }
+ body{
+    background-color:         #e6e6e6;
+ }
+ .navbar{
+    background-color: #999999;
+    height: 10vh;
+    padding-top: 20px;
+    width: 100%;
+   margin: auto;
+    box-shadow: 0 2px rgba(51, 41, 43, 0.822);
+ }
+ h2{
+    color: white;
+    padding-bottom: 50px ;
+ }
+ input,label{
+    display: block;
+ }
+ .box{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPIwwjt0x55iYaknNEvjToKctxPcSwqnEjZO6CWPakypnjxgq);
+  height: 450px;
+ width: 350px;
+ border-radius: 20px;
+ margin-left: 70px;
+ margin-top: 70px;
+ display: flex;
+ }
+ label {
+    padding-top: 70px;
+    padding-left: 20px;
+ }
+ input{
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-left: 20px;
+    width: 270px;
+    height: 30px;
+ }
+ input[type=submit]{
+    margin-left: 100px;
+ height: 40px;
+ width: 120px;
+ margin-top: 20px;
+ }
+ img{
+    padding-left: 300px;
+    width:700px;
+ }
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 

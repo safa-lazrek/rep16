@@ -1,0 +1,28 @@
+
+*{
+    margin : 0;
+ }
+ body{
+
+    background-color: rgb(172, 182, 197);
+ }
+
+ h1{color: #a73572;
+     font-size: 2.5em;
+    padding-top: 70px;
+    padding-left: 580px;
+    text-decoration: underline;
+ }
+ .nav a{ font-size: 2em;
+     color:rgb(179, 79, 126);
+    text-decoration: none;
+    padding-left: 200px;
+    padding-top: 250px;
+ }
+ .nav{
+    padding-top: 30px;
+ }
+ 
+ img{
+     width: 100px;
+ }

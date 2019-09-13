@@ -1,0 +1,22 @@
+body{
+    background-color: 	rgb(226, 226, 238);
+}
+p{
+    font-size: 1.5em;
+    padding-top: 100px;
+    padding-left: 
+    
+}
+
+img:hover{
+    -webkit-transform: scale(1.1);
+ transition: 500ms;
+}
+p:hover{
+    transition: 500ms;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 100px;
+    -webkit-transform: scale(1.025);
+}
